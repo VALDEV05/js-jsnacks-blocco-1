@@ -13,7 +13,7 @@
     justify-content: center;
     align-items: center;
 }
-.divSum{
+.result{
     width: 300px;
     height: 300px;
     border: 5px dashed black;
@@ -23,6 +23,5 @@
     align-items: center;
     text-align: center;
 }
-.list{
-    display: inline;
-}
+
+  
